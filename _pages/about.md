@@ -16,7 +16,7 @@ latest_posts:
   enabled: false
 ---
 
-I am currently a PhD student in Psychology at [Northeastern University](https://reid-lab.com/) and a 2026 ABCD Study [START Fellow](https://doctormicahjohnson.com/start/). 
+I am currently a PhD student in Psychology at the Institute for Cognitive and Brain Health at [Northeastern University](https://reid-lab.com/) and a 2026 ABCD Study [START Fellow](https://doctormicahjohnson.com/start/). 
 
 My research focuses on the biological and behavioral impacts of early childhood adversity and the intergenerational transmission of stress and trauma, with a particular emphasis on two sensitive periods of development: infancy and early adolescence. I am especially interested in identifying mechanisms of resilience that can inform strengths-based approaches to prevention and intervention.
 
