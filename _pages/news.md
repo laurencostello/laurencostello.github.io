@@ -18,7 +18,7 @@ News coverage of selected projects.
 
 ---
 
-[![thumbnail](/assets/img/wp.png)](https://www.washingtonpost.com/wellness/2022/12/01/pandemic-stress-aging-teen-brains/))
+[![thumbnail](/assets/img/wp.png)](https://www.washingtonpost.com/wellness/2022/12/01/pandemic-stress-aging-teen-brains/)
 
 ## The Washington Post
 
