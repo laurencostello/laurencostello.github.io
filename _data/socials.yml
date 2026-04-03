@@ -2,8 +2,13 @@
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 email: costello.lau@northeastern.edu # your email address
-rss_icon: false # comment this line to hide the RSS icon
+# rss_icon: false # comment this line to hide the RSS icon
 x_username: laurenacostello
 scholar_userid: iztY4zEAAAAJ # your Google Scholar ID
+research_gate_profile: Lauren-Costello-8
+custom_social:
+  logo: fa-brands fa-goodreads
+  title: Goodreads
+  url: https://www.goodreads.com/user/show/136318702-lauren-costello
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
