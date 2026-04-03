@@ -6,15 +6,19 @@ nav: true
 nav_order: 5
 ---
 
+<style>
+img[alt="thumbnail"] { max-width: 250px; display: block; margin-bottom: 10px; }
+</style>
+
 News coverage of selected projects.
 
 ---
 
-[![thumbnail](/assets/img/cnn.png)]((https://www.cnn.com/2022/12/02/health/pandemic-teen-brains-stress-wellness/index.html))
+[![thumbnail](/assets/img/cnn.png)](https://www.cnn.com/2022/12/02/health/pandemic-teen-brains-stress-wellness/index.html)
 
 ## CNN This Morning
 
-[Teens’ brains aged faster during the first year of the pandemic, study says, and stress may be to blame.](https://www.cnn.com/2022/12/02/health/pandemic-teen-brains-stress-wellness/index.html)
+[Teens' brains aged faster during the first year of the pandemic, study says, and stress may be to blame.](https://www.cnn.com/2022/12/02/health/pandemic-teen-brains-stress-wellness/index.html)
 
 ---
 
