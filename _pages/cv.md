@@ -6,6 +6,6 @@ nav: true
 nav_order: 3
 ---
 
-<meta http-equiv="refresh" content="0; url=/assets/pdf/CostelloCV_03.2026.pdf">
+<meta http-equiv="refresh" content="0; url=/assets/pdf/CostelloCV_04.2026.pdf">
 
 Redirecting to CV...
