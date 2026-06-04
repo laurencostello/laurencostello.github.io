@@ -11,7 +11,7 @@ For an up-to-date list, visit my [Google Scholar](https://scholar.google.com/cit
 **Under Review:**
 
 - Eveleigh, A., **Costello, L.A.**, Korucu, I., Bailey, C.S. (under review) Exploring the associations between autistic traits, executive function, emotion recognition, and emotion labeling in preschoolers.
-- **Costello, L.A.**, Daugherty, M., Gray, Z.J., Gunnar, M.R., Slavich, G.M., Reid, B.M. (under review) Parental exposure to severe, threatening stressors is associated with elevated inflammation in adolescents.
+- **Costello, L.A.**, Daugherty, M., Gray, Z.J., Gunnar, M.R., Slavich, G.M., Reid, B.M. (under review) Parental exposure to severe, threatening stressors is associated with elevated inflammation in adolescents independent of genetic relatedness.
 
 
 **Published:**
