@@ -16,7 +16,7 @@ latest_posts:
   enabled: false
 ---
 
-I am currently a PhD student in Psychology at the Institute for Cognitive and Brain Health at [Northeastern University](https://reid-lab.com/) and a 2026 ABCD Study [START Fellow](https://doctormicahjohnson.com/start/). 
+I am currently a PhD student in Psychology at the Institute for Cognitive and Brain Health at [Northeastern University](https://reid-lab.com/) and a 2026 ABCD Study [START Fellow]((https://www.uclahealth.org/departments/family-medicine/research/johnson-lab/scientific-training-addiction-research-techniques-start)). 
 
 My research examines the biological and behavioral impacts of early adversity, both within an individual's own development and across generations. I study the intergenerational transmission of stress and trauma—how parental adversity becomes biologically embedded in the next generation—as well as how early experiences during infancy and early adolescence, two sensitive periods of development, shape brain development, stress physiology, and immune functioning. Using a multimodal approach spanning neuroimaging, endocrine, and immune biomarkers, and drawing on both large-scale developmental cohorts (e.g., ABCD, HBCD) and lab-based longitudinal samples, I aim to identify mechanisms of risk and resilience that can inform strengths-based approaches to prevention and intervention
 
