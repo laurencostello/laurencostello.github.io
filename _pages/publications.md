@@ -15,7 +15,7 @@ For an up-to-date list, visit my [Google Scholar](https://scholar.google.com/cit
 
 
 **Published:**
-- **Costello, L.A.**, Daugherty, M., Gray, Z.J., Gunnar, M.R., Slavich, G.M., Reid, B.M. (In Press) Parental exposure to severe, threatening stressors is associated with elevated inflammation in adolescents independent of genetic relatedness. Brain, Behavior, and Immunity
+- **Costello, L.A.**, Daugherty, M., Gray, Z.J., Gunnar, M.R., Slavich, G.M., Reid, B.M. (In Press) Parental exposure to severe, threatening stressors is associated with elevated inflammation in adolescents independent of genetic relatedness. Brain, Behavior, and Immunity, https://doi.org/10.1016/j.bbi.2026.107076.
 - Celestin, G.F., Restrepo, M., Aran, Ö., **Costello, L.A.**, Daugherty, M., Espinola Coombs, P., Reid. B.M. (2026) Salivary cortisol reactivity to stress in pregnancy: A scoping review. Psychoneuroendocrinology, doi:10.1016/j.psyneuen.2026.107895 [[pdf]](/assets/pdf/celestin2026.pdf)
 - Yunzhe, H., Collazo Vargas, J., Hockett, C., Ziegler, K., Brito, N.H., ... **Costello, L.A.**, ... Morales, S., Shuffrey, L.C. (2026) Associations of household income and neighborhood deprivation on child externalizing and internalizing problems. Development and Psychopathology, doi:10.1017/S0954579426101151 [[pdf]](/assets/pdf/hu2026.pdf)
 - **Costello, L.A.**, Banker, S.M., Morales, S., Barber, M., Hockett, C., McCormack, L., Rauth, V.A., Eliott, A.J., Shuffrey, L.C. (2026) The role of allostatic load in adverse pregnancy outcomes: A multisystem, developmental perspective. Front. Glob. Women's Health, doi: 10.3389/fgwh.2025.1725275 [[pdf]](/assets/pdf/costello2026.pdf)
