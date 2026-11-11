@@ -9,13 +9,15 @@ nav_order: 2
 For an up-to-date list, visit my [Google Scholar](https://scholar.google.com/citations?user=iztY4zEAAAAJ).
 
 **Under Review:**
-
-- Eveleigh, A., **Costello, L.A.**, Korucu, I., Bailey, C.S. (under review) Exploring the associations between autistic traits, executive function, emotion recognition, and emotion labeling in preschoolers.
+- Daughtery, M., **Costello, L.A.**, Celestin, G.F., Aran, Ö.A., Zion, A.Z., … Reid, B.M. (under review) Bridging emotions and nutrition: A longitudinal cohort protocol study examining stress and iron across the third trimester.
+- Celestin, G.F., **Costello, L.A.**, Kleber, S., Georgieff, M.K., Donzella, B., Gunnar, M.R., Reid, B.M. (under review) Early life stress moderates the association between chronic HPA activity and iron status in adolescence
 - Garcia, E.J., Odom, E., Akbaryan, A., Banker, S.M., Collazo Vargas, J.I., **Costello, L.A.**, Wong, D., Shuffrey, L.C. (under review) The association between maternal romantic attachment and antenatal bonding: A pregnancy cohort study
 
 
 **Published:**
-- **Costello, L.A.**, Daugherty, M., Gray, Z.J., Gunnar, M.R., Slavich, G.M., Reid, B.M. (In Press) Parental exposure to severe, threatening stressors is associated with elevated inflammation in adolescents independent of genetic relatedness. Brain, Behavior, and Immunity, https://doi.org/10.1016/j.bbi.2026.107076.
+- Eveleigh, A., **Costello, L.A.**, Korucu, I., Bailey, C.S. (In Press) Exploring the associations between autistic traits, executive function, emotion recognition, and emotion labeling in preschoolers. Journal of Experimental Child Psychology
+- **Costello, L.A.**, Garavan, H., Makowski, C., Ahern, J., Potter, A.S., Reid, B.M., Johnson, M.E., Albaugh, M.D.^, Gonçalves, P.D.^ (2026) Cumulative prenatal adversity and fronto-limbic white matter development across adolescence (Preprint). medRxiv, doi: 10.64898/2026.10.22.26366259
+- **Costello, L.A.**, Daugherty, M., Gray, Z.J., Gunnar, M.R., Slavich, G.M., Reid, B.M. (2026) Parental exposure to severe, threatening stressors is associated with elevated inflammation in adolescents independent of genetic relatedness. Brain, Behavior, and Immunity, https://doi.org/10.1016/j.bbi.2026.107076.
 - Celestin, G.F., Restrepo, M., Aran, Ö., **Costello, L.A.**, Daugherty, M., Espinola Coombs, P., Reid. B.M. (2026) Salivary cortisol reactivity to stress in pregnancy: A scoping review. Psychoneuroendocrinology, doi:10.1016/j.psyneuen.2026.107895 [[pdf]](/assets/pdf/celestin2026.pdf)
 - Yunzhe, H., Collazo Vargas, J., Hockett, C., Ziegler, K., Brito, N.H., ... **Costello, L.A.**, ... Morales, S., Shuffrey, L.C. (2026) Associations of household income and neighborhood deprivation on child externalizing and internalizing problems. Development and Psychopathology, doi:10.1017/S0954579426101151 [[pdf]](/assets/pdf/hu2026.pdf)
 - **Costello, L.A.**, Banker, S.M., Morales, S., Barber, M., Hockett, C., McCormack, L., Rauth, V.A., Eliott, A.J., Shuffrey, L.C. (2026) The role of allostatic load in adverse pregnancy outcomes: A multisystem, developmental perspective. Front. Glob. Women's Health, doi: 10.3389/fgwh.2025.1725275 [[pdf]](/assets/pdf/costello2026.pdf)
